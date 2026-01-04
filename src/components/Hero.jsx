@@ -24,12 +24,6 @@ function Hero() {
             <span>MongoDB</span>
             <span>PostgreSQL</span>
           </div>
-          {/* <div className="hero-buttons">
-            <button className="btn btn-primary">
-              View My Work
-            </button>
-            <button className="btn btn-secondary">Download CV</button>
-          </div> */}
         </div>
       </div>
     </section>
